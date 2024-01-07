@@ -1,0 +1,8 @@
+AVALON：指纹
+Daylight：指纹
+E3FP：3D指纹
+ECFP2、4、6：扩展指纹
+MACCS：167维指纹
+mordred：分子描述符
+pubchem：881维指纹
+rdkit2d：
